@@ -1,0 +1,22 @@
+* {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+footer {
+  position: sticky;
+  text-align: center;
+  background-color: rgb(207, 207, 207);
+}
+
+.pickr {
+  height: 36px;
+}
+
+#gradientCanvas{
+  height: 750px;
+}
+
+.sunMoon{
+  width: 200px;
+  height: 200px;
+}
